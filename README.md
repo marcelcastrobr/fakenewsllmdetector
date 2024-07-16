@@ -2,13 +2,25 @@
 
 by Anamaria Todor and Marcel Castro
 
+
+
+> [!NOTE]
+>
+> This repository is part of the AWS Machine Learning Blog: [Harness large language models in fake news detection](https://aws.amazon.com/blogs/machine-learning/harness-large-language-models-in-fake-news-detection/) authored by Anamaria Todor and Marcel Castro. 
+
+
+
 ## Introduction
 
 Fake news, defined as news that convey or incorporate false, fabricated or deliberately misleading information, have been around as early as the emergence of the printing press. The rapid spread of fake news and disinformation online is not only deceiving to the public, but can also have profound impact on society, politics, economy and culture. Examples include:
 
 • Cultivating distrust in the media
+
 • Undermining the democratic process
+
 • Spread of false or discredited science – for example the anti-vax movement
+
+
 
 Advances in Artificial Intelligence and Machine Learning has made developing tools for creating and sharing fake news even easier. On the one hand, early examples include advanced social bots and automated accounts that supercharge the initial stage of spreading fake news. In general, it is not trivial for the public to determine whether such accounts are people or bots. In addition, social bots are not illegal tools and many companies legally purchase them as a part of marketing, thus it is not easy to curb the use of social bots systematically. 
 Recent discoveries in the field of Generative AI (in particular text to text and text to image models) makes it possible to produce textual and rich content at an unprecedented pace with the help of Large Language Models (LLMs).  LLMs are Generative AI text models with over one billion parameters and they are facilitated in the synthesis of high-quality text.
